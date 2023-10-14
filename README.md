@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am interested in FrontEnd. And<br>in particular, I follow ReactJs<br>and NextJs. Clean coding is<br>Things like agile project management (jira) and git source<br>control are some of the technologies that I deal with on a<br>daily basis.<br>important to me and I try to<br>follow its principles.<br>I attach special importance to<br>training and acquiring skills and<br>personal development. And I<br>find teamwork more helpful in<br>reaching this goal.
+I am interested in FrontEnd. And<br>in particular, I follow ReactJs<br>and NextJs. Clean coding is important to me and I try to<br>follow its principles.<br>I attach special importance to<br>training and acquiring skills and<br>personal development. And I<br>find teamwork more helpful in<br>reaching this goal.
 
 
 ## 🌐 Socials:
